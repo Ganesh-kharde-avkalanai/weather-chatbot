@@ -37,7 +37,7 @@ index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
 
 # Gemini setup
-genai.configure(api_key="AIzaSyAyXZy3TFg7B2Ai7G6raW9Cep-qzDXkJo8")
+genai.configure(api_key="Gemini API key")
 
 def get_gemini_response(user_query):
     try:
