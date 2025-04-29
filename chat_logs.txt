@@ -1,0 +1,108 @@
+----- New Session -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you may have. Please feel free to ask me anything.
+
+----- New Session -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you may have. Please feel free to ask me anything.
+User: what the data is about
+Assistant:  The data is about weather forecasting and analysis of weather data collected from the Indian Meteorological department of Kanyakumari District, Tamilnadu.
+
+----- New Session -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you may have. Please feel free to ask me anything.
+User: what the data is about
+Assistant:  The data is about weather forecasting and analysis of weather data collected from the Indian Meteorological department of Kanyakumari District, Tamilnadu.
+User: what i asked you
+Assistant:  You asked me "what the data is about" and "what i asked you".
+
+----- next chat -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you might have. Please feel free to ask me anything.
+
+----- next chat -----
+User: hi
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+
+----- next chat -----
+User: hi
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+User: how are you
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+
+----- next chat -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you might have. Please feel free to ask me anything.
+
+----- next chat -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you might have. Please feel free to ask me anything.
+User: weather pune
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php#.
+
+----- next chat -----
+User: hi
+Assistant:  Hi! I'm here to help you with any questions you might have. Please feel free to ask me anything.
+User: weather pune
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php#.
+User: pune weather
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php#.
+
+----- next chat -----
+User: hi
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+
+----- next chat -----
+User: hi
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+User: pune weather
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php# or reach out to support: Phone: <phone_number>, Email: <support_email>.
+
+----- next chat -----
+User: hi
+Assistant:  I'm unable to provide an accurate response at the moment. Please visit <web_link> or reach out to support: Phone: <phone_number>, Email: <support_email>.
+User: pune weather
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php# or reach out to support: Phone: <phone_number>, Email: <support_email>.
+User: pune weather
+Assistant:  I’m unable to provide an accurate response at the moment. Please visit https://mausam.imd.gov.in/imd_latest/contents/faq.php# or reach out to support: Phone: <phone_number>, Email: <support_email>.
+
+----- next chat -----
+User: what weather in pune
+Assistant: Could not fetch weather info for 'weather in pune'.
+
+----- next chat -----
+User: what weather in pune
+Assistant: Could not fetch weather info for 'weather in pune'.
+User: weather in pune
+Assistant: Weather in Pune:
+- Temperature: 35.24°C
+- Condition: broken clouds
+- Humidity: 24%
+- Wind Speed: 5.98 m/s
+
+----- next chat -----
+User: what weather in pune
+Assistant: Could not fetch weather info for 'weather in pune'.
+User: weather in pune
+Assistant: Weather in Pune:
+- Temperature: 35.24°C
+- Condition: broken clouds
+- Humidity: 24%
+- Wind Speed: 5.98 m/s
+User: what is Standardized Precipitation Index 
+Assistant:  The Standardized Precipitation Index (SPI) is an index used for monitoring drought and is based on only precipitation. This index is negative for dry, and positive for wet conditions. As the dry or wet conditions become more severe, the index becomes more negative or positive respectively.
+
+----- next chat -----
+User: what weather in pune
+Assistant: Could not fetch weather info for 'weather in pune'.
+User: weather in pune
+Assistant: Weather in Pune:
+- Temperature: 35.24°C
+- Condition: broken clouds
+- Humidity: 24%
+- Wind Speed: 5.98 m/s
+User: what is Standardized Precipitation Index 
+Assistant:  The Standardized Precipitation Index (SPI) is an index used for monitoring drought and is based on only precipitation. This index is negative for dry, and positive for wet conditions. As the dry or wet conditions become more severe, the index becomes more negative or positive respectively.
+User: what ive asked earlier
+Assistant:  You asked about the weather in Pune and the Standardized Precipitation Index.
+
