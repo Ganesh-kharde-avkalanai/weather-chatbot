@@ -66,7 +66,7 @@ def is_weather_query(query):
             return city
     return None
 
-weather_api_key = ("bb5385896e0385285079bc301b7f9311")
+weather_api_key = ("open weather map API key")
 
 
 def get_weather(city):
