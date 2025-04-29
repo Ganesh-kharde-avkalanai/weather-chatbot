@@ -33,7 +33,7 @@ embeddings = BedrockEmbeddings(model_id="amazon.titan-embed-text-v1", client=bed
 faiss_index_folder = "faiss_index"
 
 # Weather API
-weather_api_key = "bb5385896e0385285079bc301b7f9311"
+weather_api_key = "open weather map API key"
 
 # Bedrock model invocation
 def invoke_bedrock_model(prompt):
